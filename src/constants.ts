@@ -4,7 +4,7 @@ import JSBI from 'jsbi'
 /**
  * @deprecated use FACTORY_ADDRESS_MAP instead
  */
-export const FACTORY_ADDRESS = '0x83719b23B3043F97C4a994b27aE6974Cb5BB20FF'
+export const FACTORY_ADDRESS = '0xf2A5DD9ff3aA93807986DeAA9fD316471BD959Cd'
 
 export const FACTORY_ADDRESS_MAP: { [chainId: number]: string } = {
   // Mainnet
@@ -28,10 +28,10 @@ export const FACTORY_ADDRESS_MAP: { [chainId: number]: string } = {
   // Celo
   42220: '0x79a530c8e2fA8748B7B40dd3629C0520c2cCf03f',
   // Unreal
-  18231: '0x83719b23B3043F97C4a994b27aE6974Cb5BB20FF'
+  18231: '0xf2A5DD9ff3aA93807986DeAA9fD316471BD959Cd'
 }
 
-export const INIT_CODE_HASH = '0x2ea56e3459a711470be74203fcf3f42a6124fc22f975036090e0d3a841d0f68b'
+export const INIT_CODE_HASH = '0x4f1089686277375014cc03a504AA88bb53BBC62C'
 
 export const MINIMUM_LIQUIDITY = JSBI.BigInt(1000)
 
