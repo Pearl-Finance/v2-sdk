@@ -35,7 +35,7 @@ var FACTORY_ADDRESS_MAP = {
   // Unreal
   18231: '0xf2A5DD9ff3aA93807986DeAA9fD316471BD959Cd'
 };
-var INIT_CODE_HASH = '0x4f1089686277375014cc03a504AA88bb53BBC62C';
+var INIT_CODE_HASH = '0xc04be0f430fc1036dc8c5e8e27a0e4efc7c5e93da7a7f25010da5345503ce079';
 var MINIMUM_LIQUIDITY = /*#__PURE__*/JSBI.BigInt(1000); // exports for internal consumption
 
 var ZERO = /*#__PURE__*/JSBI.BigInt(0);
