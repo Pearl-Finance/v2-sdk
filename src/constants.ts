@@ -4,7 +4,7 @@ import JSBI from 'jsbi'
 /**
  * @deprecated use FACTORY_ADDRESS_MAP instead
  */
-export const FACTORY_ADDRESS = '0xf2A5DD9ff3aA93807986DeAA9fD316471BD959Cd'
+export const FACTORY_ADDRESS = '0x16b29b467bADedcCE1aC838A5CFc06011F90b307'
 
 export const FACTORY_ADDRESS_MAP: { [chainId: number]: string } = {
   // Mainnet
