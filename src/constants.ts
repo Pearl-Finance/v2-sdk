@@ -28,7 +28,7 @@ export const FACTORY_ADDRESS_MAP: { [chainId: number]: string } = {
   // Celo
   42220: '0x79a530c8e2fA8748B7B40dd3629C0520c2cCf03f',
   // Unreal
-  18231: '0xf2A5DD9ff3aA93807986DeAA9fD316471BD959Cd'
+  18231: '0x16b29b467bADedcCE1aC838A5CFc06011F90b307'
 }
 
 export const INIT_CODE_HASH = '0xc04be0f430fc1036dc8c5e8e27a0e4efc7c5e93da7a7f25010da5345503ce079'
