@@ -4,7 +4,7 @@ import JSBI from 'jsbi'
 /**
  * @deprecated use FACTORY_ADDRESS_MAP instead
  */
-export const FACTORY_ADDRESS = '0x16b29b467bADedcCE1aC838A5CFc06011F90b307'
+export const FACTORY_ADDRESS = '0x253E2AA8e3e4E507E9d7354Afe65D173eBeEdA40'
 
 export const FACTORY_ADDRESS_MAP: { [chainId: number]: string } = {
   // Mainnet
@@ -28,7 +28,7 @@ export const FACTORY_ADDRESS_MAP: { [chainId: number]: string } = {
   // Celo
   42220: '0x79a530c8e2fA8748B7B40dd3629C0520c2cCf03f',
   // Unreal
-  18231: '0x16b29b467bADedcCE1aC838A5CFc06011F90b307'
+  18231: '0x253E2AA8e3e4E507E9d7354Afe65D173eBeEdA40'
 }
 
 export const INIT_CODE_HASH = '0xc04be0f430fc1036dc8c5e8e27a0e4efc7c5e93da7a7f25010da5345503ce079'
